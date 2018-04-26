@@ -1,0 +1,7 @@
+var newElement = document.createElement('li');
+var newA = document.createElement("a");
+
+var list = document.getElementById('main-nav2').getElementsByTagName('ul')[0];
+list.appendChild(newElement);
+newElement.appendChild(newA);
+newA.textContent = 'Jabiru';
