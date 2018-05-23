@@ -61,7 +61,25 @@ display:none;
 /* readmore button1*/
 
 
+/*Form validation error for login form CSS*/ 
 
+.ulabel{
+	 float:left;
+	 clear: both;
+	 
+ }
+ 
+#span1{
+	font-size:18px;
+	float:left;
+	color:red;
+	display: none;
+	width: 100%;
+}
+
+.userPass{
+	width:100%;
+}
 
 /* LogIn and signUp Buttons*/
 
