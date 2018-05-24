@@ -79,12 +79,11 @@ display:none;
 
 
 
-.ulabel{
+.ulabel, .ulabel1{
 	 float:left;
 	 clear: both;
 	 
  }
- 
 #span1{
 	font-size:18px;
 	float:left;
